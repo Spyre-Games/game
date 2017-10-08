@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bow demo.Plugins", "bow demo.Plugins.csproj", "{6331523F-2395-A90C-C2B8-FFD4E963FB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bow demo", "bow demo.csproj", "{7C0B8532-EB61-141C-AB0D-122C8F71580E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bow demo.Editor.Plugins", "bow demo.Editor.Plugins.csproj", "{77A5293E-94C8-D8B2-633B-C249DA9D8254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6331523F-2395-A90C-C2B8-FFD4E963FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6331523F-2395-A90C-C2B8-FFD4E963FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6331523F-2395-A90C-C2B8-FFD4E963FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6331523F-2395-A90C-C2B8-FFD4E963FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0B8532-EB61-141C-AB0D-122C8F71580E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0B8532-EB61-141C-AB0D-122C8F71580E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0B8532-EB61-141C-AB0D-122C8F71580E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0B8532-EB61-141C-AB0D-122C8F71580E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A5293E-94C8-D8B2-633B-C249DA9D8254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A5293E-94C8-D8B2-633B-C249DA9D8254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A5293E-94C8-D8B2-633B-C249DA9D8254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A5293E-94C8-D8B2-633B-C249DA9D8254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
